@@ -22,10 +22,7 @@
       "WhitelistPlatforms": [
         "Win64",
         "Linux",
-        "Mac",
-        "XboxOne",
-        "PS4",
-        "Android"
+        "Mac"
       ]
     },
     {
